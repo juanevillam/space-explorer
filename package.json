@@ -1,7 +1,7 @@
 {
-  "name": "platanus-hack-26-arcade",
-  "version": "1.0.0",
-  "description": "Phaser arcade game challenge starter kit",
+  "name": "space-explorer",
+  "version": "1.6.0",
+  "description": "An endless 3D wireframe space shooter in 50 KB of vanilla JavaScript and Phaser 3.",
   "type": "module",
   "scripts": {
     "dev": "vite --port 3001",
